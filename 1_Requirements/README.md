@@ -26,8 +26,8 @@ Nowadays the Tech-based market has a huge opportunities in capturing the youth m
 
 | iD | Description   | Category                |
 | :-------- | :------- | :------------------------- |
-| HLR01 | User should able to viewe operation list | Technical |
-| HLR02 | User should able to select the operation | Technical |
-| HLR03 | The system sould able perform the given operation | Technical |
-| HLR04 | The system should provide correct result | Technical |
+| 01 | User should able to view operation list | Technical |
+| 02 | User should able to select the operation | Technical |
+| 03 | The system should able to perform the given operation | Technical |
+| 04 | The system should able to provide correct result | Technical |
 
