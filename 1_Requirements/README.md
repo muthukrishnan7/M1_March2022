@@ -1,5 +1,5 @@
 ﻿
-# Calculator
+# Scientific Calculator
 
 # Introduction:-
    
