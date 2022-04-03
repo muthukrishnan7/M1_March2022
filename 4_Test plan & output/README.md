@@ -18,6 +18,6 @@
 |Sl.no| EXPECTED OUTPUT|
 |:----|:---------------|
 |1|	Choice of the user has been selected successfully.|
-|2|	inputs are got from user successfully.|
+|2|	inputs are successfully received.|
 |3| based on the choice and input the calculation has been processed successfully.|
 |4|	The precise output will be displayed in the screen.|
